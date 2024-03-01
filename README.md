@@ -1,4 +1,6 @@
-## ScreenShots
+# Hosted URL : https://65e1b599a65c22b740f4a258--kaleidoscopic-gumdrop-968893.netlify.app/
+
+# ScreenShots
 
 <a href="https://rrlc.netlify.app/"><img src="https://github.com/akashpawar43/Radiant-Riches/blob/master/public/website.png" alt="website screenshot"></a>
 
